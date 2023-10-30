@@ -1,0 +1,37 @@
+form {
+    text-align: center;
+
+}
+
+h4 {
+    background-color: white;
+    font-size: 40px;
+
+}
+
+.Hija {
+    margin: 28px;
+
+}
+
+.Hija label,
+.Hija input {
+    font-size: 27px;
+}
+
+.SeccionIcono {
+    text-align: center;
+    margin: 10px;
+}
+
+.IcoRegreso {
+    border: 5px solid black;
+    border-radius: 10px;
+    height: 80px;
+    width: 80px;
+}
+
+body {
+    background-color: deepskyblue;
+    color: black;
+}
